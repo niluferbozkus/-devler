@@ -1,4 +1,4 @@
-#Bir sayının tek mi çift mi olduğunu tespit eden programı yazıyoruz.
+#Bir sayının tek mi çift mi olduğunu tespit eden program
 
 sayı = int(input("Bir sayı girin: "))
 if sayı % 2 == 0:
