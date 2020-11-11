@@ -5,5 +5,6 @@ while len(x)!=4:
     x = str(input("4 haneli bir şifre belirleyiniz: "))
 
 print("Yeni şifreniz",x, "olarak kaydedilimiştir.")
+
     
 
